@@ -39,7 +39,7 @@ uso_empresa:
 zeros02:
   pos: [63, 65]
   picture: '9(03)'
-  default: '0'
+  default: '237'
 
 multa:
   pos: [66, 66]
