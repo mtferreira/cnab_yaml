@@ -1,0 +1,78 @@
+      codigo_banco:
+        pos: [1,3]
+        picture: '9(3)'
+        default: 1
+      lote_servico:
+        pos: [4,7]
+        picture: '9(4)'
+      tipo_registro:
+        pos: [8,8]
+        picture: '9(1)'
+        default: 3
+      numero_registro:
+        pos: [9,13]
+        picture: '9(5)'
+      codigo_segmento:
+        pos: [14,14]
+        picture: 'X(1)'
+        default: 'U'
+      exclusivo_febraban_01:
+        pos: [15,15]
+        picture: 'X(1)'
+        default: ''
+      codigo_movimento:
+        pos: [16,17]
+        picture: '9(2)'
+        default: '0'
+      valor_acrescimos:
+        pos: [18,32]
+        picture: '9(13)V9(2)'
+      valor_desconto:
+        pos: [33,47]
+        picture: '9(13)V9(2)'
+      valor_abatimento_concedido:
+        pos: [48,62]
+        picture: '9(13)V9(2)'
+      valor_iof:
+        pos: [63,77]
+        picture: '9(13)V9(2)'
+      valor_pago:
+        pos: [78,92]
+        picture: '9(13)V9(2)'
+      valor_liquido:
+        pos: [93,107]
+        picture: '9(13)V9(2)'
+      outras_despesas:
+        pos: [108,122]
+        picture: '9(13)V9(2)'
+      outros_creditos:
+        pos: [123,137]
+        picture: '9(13)V9(2)'
+      data_ocorrencia:
+        pos: [138,145]
+        picture: '9(8)'
+      data_efetivacao_credito:
+        pos: [146,153]
+        picture: '9(8)'
+      codigo_ocorrencia:
+        pos: [154,157]
+        picture: '9(4)'
+      data_ocorrencia:
+        pos: [158,165]
+        picture: '9(8)'
+      valor_ocorrencia:
+        pos: [166,180]
+        picture: '9(13)V9(2)'
+      complemento_ocorrencia:
+        pos: [181,210]
+        picture: 'X(30)'
+      codigo_banco_correspondente_compensacao:
+        pos: [211,213]
+        picture: '9(3)'
+      nosso_numero:
+        pos: [214,233]
+        picture: '9(20)'
+      exclusivo_febraban_02:
+        pos: [234,240]
+        picture: 'X(7)'
+        default: ''

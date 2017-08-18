@@ -1,0 +1,54 @@
+codigo_banco:
+  pos: [1,3]
+  picture: '9(3)'
+  default: 1
+lote_servico:
+  pos: [4,7]
+  picture: '9(4)'
+tipo_registro:
+  pos: [8,8]
+  picture: '9(1)'
+  default: 3
+numero_registro:
+  pos: [9,13]
+  picture: '9(5)'
+codigo_segmento:
+  pos: [14,14]
+  picture: 'X(1)'
+  default: 'S'
+exclusivo_febraban_01:
+  pos: [15,15]
+  picture: 'X(1)'
+  default: ''
+# repetir codigo informado no segmento P
+codigo_movimento_remessa:
+  pos: [16,17]
+  picture: '9(2)'
+identificacao_impressao:
+  pos: [18,18]
+  picture: '9(1)'
+  default: 0
+mensagem_05:
+  pos: [19,58]
+  picture: 'X(40)'
+  default: ''
+mensagem_06:
+  pos: [59,98]
+  picture: 'X(40)'
+  default: ''
+mensagem_07:
+  pos: [99,138]
+  picture: 'X(40)'
+  default: ''
+mensagem_08:
+  pos: [139,178]
+  picture: 'X(40)'
+  default: ''
+mensagem_09:
+  pos: [179,218]
+  picture: 'X(40)'
+  default: ''
+exclusivo_febraban_03:
+  pos: [219,240]
+  picture: 'X(22)'
+  default: ''

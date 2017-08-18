@@ -1,0 +1,79 @@
+codigo_banco:
+  pos: [1,3]
+  picture: '9(3)'
+  default: 1
+lote_servico:
+  pos: [4,7]
+  picture: '9(4)'
+tipo_registro:
+  pos: [8,8]
+  picture: '9(1)'
+  default: 3
+numero_sequencial_lote:
+  pos: [9,13]
+  picture: '9(5)'
+codigo_segmento:
+  pos: [14,14]
+  picture: 'X(1)'
+  default: 'Q'
+exclusivo_febraban_01:
+  pos: [15,15]
+  picture: 'X(1)'
+  default: ''
+# repetir codigo informado no segmento P
+codigo_movimento_remessa:
+  pos: [16,17]
+  picture: '9(2)'
+  default: '01'
+tipo_inscricao:
+  pos: [18,18]
+  picture: '9(1)'
+  default: 0
+numero_inscricao:
+  pos: [19,33]
+  picture: 'X(15)'
+sacador_nome:
+  pos: [34,73]
+  picture: 'X(40)'
+endereco:
+  pos: [74,113]
+  picture: 'X(40)'
+bairro:
+  pos: [114,128]
+  picture: 'X(15)'
+cep:
+  pos: [129,133]
+  picture: '9(5)'
+sufixo_cep:
+  pos: [134,136]
+  picture: '9(3)'
+cidade:
+  pos: [137,151]
+  picture: 'X(15)'
+estado:
+  pos: [152,153]
+  picture: 'X(2)'
+tipo_inscricao_cedente:
+  pos: [154,154]
+  picture: '9(1)'
+  default: 0
+numero_inscricao_cedente:
+  pos: [155,169]
+  picture: '9(15)'
+  default: 0
+nome_sacador_avalista:
+  pos: [170,209]
+  picture: 'X(40)'
+  default: ''
+codigo_banco_correspondente_compensacao:
+  pos: [210,212]
+  picture: '9(3)'
+  default: 0
+nosso_numero_banco_correspondente:
+  pos: [213,232]
+  picture: 'X(20)'
+  default: ''
+exclusivo_febraban_02:
+  pos: [233,240]
+  picture: 'X(8)'
+  default: ''
