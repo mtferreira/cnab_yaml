@@ -21,7 +21,7 @@ exclusivo_febraban_01:
   picture: 'X(1)'
   default: ''
 # repetir codigo informado no segmento P
-codigo_movimento_remessa:
+codigo_ocorrencia:
   pos: [16,17]
   picture: '9(2)'
 codigo_desconto_02:
