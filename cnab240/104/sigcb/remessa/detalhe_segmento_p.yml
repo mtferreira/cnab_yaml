@@ -32,3 +32,10 @@ modalidade_carteira_sigcb:
 indentificacao_titulo_banco:
   pos: [43 ,57]
   picture: '9(15)'
+
+
+padrao_banco_01:
+  pos: [62 ,62]
+  picture: '9(1)'
+  default: '0'
+
