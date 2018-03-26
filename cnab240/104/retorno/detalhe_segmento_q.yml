@@ -1,0 +1,7 @@
+cep:
+  pos: [129, 133]
+  picture: '9(5)'
+
+sufixo_cep:
+  pos: [134, 136]
+  picture: '9(3)'
