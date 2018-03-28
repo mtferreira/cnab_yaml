@@ -27,10 +27,12 @@ codigo_ocorrencia:
 codigo_desconto_02:
   pos: [18,18]
   picture: '9(1)'
+  date_format: '%d%m%Y'
   default: 0
 data_desconto_02:
   pos: [19,26]
   picture: '9(8)'
+  date_format: '%d%m%Y'
   default: 0
 valor_desconto_02:
   pos: [27,41]
@@ -43,6 +45,7 @@ codigo_desconto_03:
 data_desconto_03:
   pos: [43,50]
   picture: '9(8)'
+  date_format: '%d%m%Y'
   default: 0
 valor_desconto_03:
   pos: [51,65]
@@ -55,6 +58,7 @@ codigo_multa:
 data_multa:
   pos: [67,74]
   picture: '9(8)'
+  date_format: '%d%m%Y'
   default: 0
 valor_multa:
   pos: [75,89]
